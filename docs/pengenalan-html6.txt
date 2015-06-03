@@ -1,1 +1,5 @@
 Title : Pengenalan HTML6
+
+HTML5 merupakan suatu lompatan besar untuk semua pengembang web, karena munculnya banyak tag-tag baru yang fungsional misalnya seperti <header>, <nav>, dan <footer>. Dan juga ada beberapa fungsi baru yang hadir misalnya seperti drag and drop, localStorage, dan geolocation. Tapi, HTML5 masih terlalu banyak kekosongan dan HTML5 bukanlah suatu markup yang benar-benar semantik.
+
+Dan pada akhirnya untuk mengisi kekosongan itu tim pengembang dari HTML mengeluarkan teknologi baru mereka yaitu HTML6 suatu markup yang didesain se-semantik mungkin. Pada HTML6 ini pengembang tidak perlu lagi direpotkan oleh standar-standar yang ada dan tidak dipusingkan oleh aturan-aturan yang banyak, HTML6 memberikan kebebasan total pada pengembang. 
